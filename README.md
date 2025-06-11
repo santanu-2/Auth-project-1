@@ -16,6 +16,7 @@ A simple and secure authentication system built with the MERN stack. It includes
 - **Node.js** – Runtime
 - **Zustand** – React global state management
 - **JWT** – Authentication
+- **TAILWIND CSS** -For Styling Purpose
 - **Nodemailer + OAuth2** – Sending verification and reset emails
 
 ## ✨ Features
@@ -23,7 +24,7 @@ A simple and secure authentication system built with the MERN stack. It includes
 - ✅ User signup with email verification
 - 🔐 Secure login/logout with JWT
 - 📧 Email verification & welcome emails
-- 🔁 Forgot and reset password flow
+- 🔁 Forgot and reset password flow(OTP & Reset Pasword Link)
 - 🔒 Protected routes (frontend & backend)
 - ⚙️ Zustand store for centralized state
 
