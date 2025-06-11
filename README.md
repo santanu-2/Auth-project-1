@@ -17,7 +17,7 @@ A simple and secure authentication system built with the MERN stack. It includes
 - **Zustand** – React global state management
 - **JWT** – Authentication
 - **TAILWIND CSS** -For Styling Purpose
-- **Nodemailer + OAuth2** – Sending verification and reset emails
+- **Nodemailer + OAuth** – Sending verification and reset emails
 
 ## ✨ Features
 
@@ -52,13 +52,6 @@ cd ../frontend
 npm install
 # create a .env file with REACT_APP_API_URL
 npm start
-```
-
-## 📂 Folder Structure
-
-```
-/backend        → Node.js API
-/frontend       → React app with Zustand
 ```
 
 ## 🙋 Author
