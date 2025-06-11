@@ -1,8 +1,4 @@
-Got it! Here's a **brief and clean `README.md`** file for your **MERN authentication project** using **Zustand** and **Nodemailer with OAuth2**:
 
----
-
-````markdown
 # 🔐 MERN Auth Project
 
 A simple and secure authentication system built with the MERN stack. It includes email verification, JWT-based login, and password reset functionality. The frontend uses **Zustand** for global state management, and **Nodemailer (OAuth2)** is used to send emails.
